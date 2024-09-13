@@ -1,0 +1,6 @@
+Training_FW\SeleniumFramework\pageObjects\OrdersPage.class
+Training_FW\SeleniumFramework\abstractcomponents\AbstractComponents.class
+Training_FW\SeleniumFramework\pageObjects\ProductCataloguePage.class
+Training_FW\SeleniumFramework\pageObjects\LoginPage.class
+Training_FW\SeleniumFramework\resources\ExtentReporterNG.class
+Training_FW\SeleniumFramework\pageObjects\CheckOutProductPage.class

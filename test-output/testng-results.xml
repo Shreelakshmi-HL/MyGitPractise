@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-13T14:10:09 IST" name="Suite" finished-at="2024-08-13T14:13:09 IST" duration-ms="179120">
+    <groups>
+    </groups>
+    <test started-at="2024-08-13T14:10:09 IST" name="EndToEndTest" finished-at="2024-08-13T14:12:38 IST" duration-ms="148571">
+      <class name="Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:10:10 IST" name="launchApplication" finished-at="2024-08-13T14:10:37 IST" duration-ms="27549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="selectItem(java.util.HashMap)[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:10:37 IST" name="selectItem" data-provider="getData" finished-at="2024-08-13T14:10:50 IST" duration-ms="12491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{pwd=Practise123, itemName=IPHONE 13 PRO, id=shreelakshmi@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItem -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:10:50 IST" name="closeBrowser" finished-at="2024-08-13T14:10:51 IST" duration-ms="1076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:10:51 IST" name="launchApplication" finished-at="2024-08-13T14:11:17 IST" duration-ms="25685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="selectItem(java.util.HashMap)[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:11:17 IST" name="selectItem" data-provider="getData" finished-at="2024-08-13T14:11:29 IST" duration-ms="12321" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{pwd=Practise123, itemName=ADIDAS ORIGINAL, id=shreelakshmi@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItem -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:11:29 IST" name="closeBrowser" finished-at="2024-08-13T14:11:30 IST" duration-ms="1028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:11:30 IST" name="launchApplication" finished-at="2024-08-13T14:11:57 IST" duration-ms="27282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyOrderHistoryTest(java.util.HashMap)[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:11:57 IST" name="verifyOrderHistoryTest" data-provider="getData" finished-at="2024-08-13T14:12:03 IST" duration-ms="5945" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{pwd=Practise123, itemName=IPHONE 13 PRO, id=shreelakshmi@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderHistoryTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:12:03 IST" name="closeBrowser" finished-at="2024-08-13T14:12:04 IST" duration-ms="1304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:12:04 IST" name="launchApplication" finished-at="2024-08-13T14:12:31 IST" duration-ms="26642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyOrderHistoryTest(java.util.HashMap)[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:12:31 IST" name="verifyOrderHistoryTest" data-provider="getData" finished-at="2024-08-13T14:12:37 IST" duration-ms="5823" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{pwd=Practise123, itemName=ADIDAS ORIGINAL, id=shreelakshmi@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderHistoryTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1@30e868be]" started-at="2024-08-13T14:12:37 IST" name="closeBrowser" finished-at="2024-08-13T14:12:38 IST" duration-ms="1119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Training_FW.SeleniumFramework.tests.ItemAddtoCartAndverify_TC1 -->
+    </test> <!-- EndToEndTest -->
+    <test started-at="2024-08-13T14:12:38 IST" name="errorvalidation" finished-at="2024-08-13T14:13:09 IST" duration-ms="30073">
+      <class name="Training_FW.SeleniumFramework.tests.ErrorValidation_TC2">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:Training_FW.SeleniumFramework.tests.ErrorValidation_TC2@19835e64]" started-at="2024-08-13T14:12:38 IST" name="launchApplication" finished-at="2024-08-13T14:13:07 IST" duration-ms="28424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="errorValidationForLogin()[pri:0, instance:Training_FW.SeleniumFramework.tests.ErrorValidation_TC2@19835e64]" started-at="2024-08-13T14:13:07 IST" name="errorValidationForLogin" finished-at="2024-08-13T14:13:07 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorValidationForLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Training_FW.SeleniumFramework.tests.ErrorValidation_TC2@19835e64]" started-at="2024-08-13T14:13:07 IST" name="closeBrowser" finished-at="2024-08-13T14:13:09 IST" duration-ms="1149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Training_FW.SeleniumFramework.tests.ErrorValidation_TC2 -->
+    </test> <!-- errorvalidation -->
+  </suite> <!-- Suite -->
+</testng-results>
