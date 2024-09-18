@@ -103,6 +103,7 @@ public class ItemAddtoCartAndverify
 	   System.out.println("Order placed successfully");
 	   
 	   //accessing thank you msg and validation
+	   
 	  String confirmMsg= driver.findElement(By.cssSelector(".hero-primary")).getText();
 	   Assert.assertTrue(confirmMsg.equalsIgnoreCase("Thank you for the order"));
    }
